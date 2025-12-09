@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build/cmake_install.cmake",
+		"C:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build/MathLib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

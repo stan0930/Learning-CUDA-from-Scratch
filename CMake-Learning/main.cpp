@@ -13,5 +13,8 @@ int main() {
     std::cout << a << " + " << b << " = " << MathLib::add(a, b) << std::endl;
     std::cout << a << " - " << b << " = " << MathLib::subtract(a, b) << std::endl;
 
+    std::cout << "\n按任意键退出..." << std::endl;
+    system("pause");
+    
     return 0;
 }

@@ -1,6 +1,6 @@
 ^C:\USERS\STAN0930\DESKTOP\LEARNING-CUDA-FROM-SCRATCH\CMAKE-LEARNING\MATHLIB\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning -BC:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build --check-stamp-file C:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build/MathLib/CMakeFiles/generate.stamp
+E:\Cmake\bin\cmake.exe -SC:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning -BC:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build --check-stamp-file C:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build/MathLib/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
