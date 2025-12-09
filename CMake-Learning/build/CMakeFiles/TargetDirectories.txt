@@ -1,0 +1,4 @@
+C:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build/CMakeFiles/CMakeLearningApp.dir
+C:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/stan0930/Desktop/Learning-CUDA-from-Scratch/CMake-Learning/build/MathLib/CMakeFiles/MathLib.dir
